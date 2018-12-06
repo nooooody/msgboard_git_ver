@@ -44,9 +44,9 @@ $str = 'nody$xiao@mail.chungyo.net';
 // }
 
 if (preg_match("/^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+$/", $str)) {
-	echo 'ok';
+	echo 'ooooooooooooooooooooooooooooooooooook';
 } else {
-	echo 'not ok';
+	echo 'not ooooooooooooooooooooooooooooooooooook';
 }
 
 // if (!eregi('[^\x00-\x7F]', $str) || eregi('[a-zA-Z0-9]', $str) ){
