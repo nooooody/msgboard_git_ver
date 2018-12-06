@@ -1,7 +1,6 @@
 ﻿<?php
 $str = "這是master測試字串，這是master測試字串。";
 
-
 // $str = "wibibi測試字串";
 // $str = "這是測試字串";
 // $str = "wibibi";
