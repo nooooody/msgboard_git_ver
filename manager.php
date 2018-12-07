@@ -29,7 +29,7 @@ if(isset($_SESSION["email"])==FALSE) {
                 <h3>帳號(E-mail)：<?php echo $_SESSION["email"];?></h3>
                 <h3>姓名(Name)：<?php echo $_SESSION["name"];?></h3>
                 <h3>暱稱(Nick)：<?php echo $_SESSION["nick"];?></h3>
-                <a class="btn btn-primary btn-lg btn-block" href="edit_personal.php">修改個人資料</a>
+                <a class="btn btn-primary btn-lg btn-block" href="edit_personal1.php">修改個人資料</a>
                 <a class="btn btn-primary btn-lg btn-block" href="edit_password.php">修改密碼</a>
                 <a class="btn btn-primary btn-lg btn-block" href="managemember.php">會員管理</a>
                 <a class="btn btn-primary btn-lg btn-block" href="managemsg.php">留言板管理</a>
