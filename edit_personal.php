@@ -62,7 +62,8 @@
               </form>
               <br>
               <a class="btn btn-default btn-lg btn-block" href="manager.php">管理者首頁</a>
-              <a class="btn btn-default btn-lg btn-block" href="manager.php">管理者首頁</a>                                                                  
+              <a class="btn btn-default btn-lg btn-block" href="manager.php">管理者首頁</a>
+              <a class="btn btn-default btn-lg btn-block" href="manager.php">管理者首頁</a>                                                                 
           </div>
         </div>
         <br>
