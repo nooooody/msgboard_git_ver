@@ -62,6 +62,7 @@
               </form>
               <br>
               <a class="btn btn-default btn-lg btn-block" href="member.php">會員首頁</a>
+              <a class="btn btn-default btn-lg btn-block" href="member.php">會員首頁</a>
               <a class="btn btn-default btn-lg btn-block" href="member.php">會員首頁</a>                                                                  
           </div>
         </div>
