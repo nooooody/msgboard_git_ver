@@ -26,11 +26,11 @@ $str = "這是master測試字串，這是master測試字串。";
 // 	echo "not ok";
 // }
 
-// if (!preg_match('/^[\x7f-\xff]+$/', $str)) {
-// 	echo 'not ok';
-// } else {
-// 	echo "ok";
-// }
+if (!preg_match('/^[\x7f-\xff]+$/', $str)) {
+	echo 'not ok';
+} else {
+	echo "ok";
+}
 
 // echo $str;
 // echo "<br/>";
